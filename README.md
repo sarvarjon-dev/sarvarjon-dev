@@ -25,9 +25,9 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <!-- Replaced github-readme-stats (service paused) with shields.io badges -->
-  ![Followers](https://img.shields.io/github/followers/sarvarjon-dev?label=Followers&style=social)
-  ![Top language](https://img.shields.io/github/languages/top/sarvarjon-dev/sarvarjon-dev)
-  ![Repo stars](https://img.shields.io/github/stars/sarvarjon-dev/sarvarjon-dev?style=social)
-  ![Repo size](https://img.shields.io/github/repo-size/sarvarjon-dev/sarvarjon-dev)
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvarjon-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvarjon-dev&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=sarvarjon-dev&theme=radical" alt="GitHub Streak" />
 </p>
