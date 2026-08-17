@@ -22,3 +22,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+
+### 📊 GitHub Stats
+<p align="left">
+  <!-- Replaced github-readme-stats (service paused) with shields.io badges -->
+  ![Followers](https://img.shields.io/github/followers/sarvarjon-dev?label=Followers&style=social)
+  ![Top language](https://img.shields.io/github/languages/top/sarvarjon-dev/sarvarjon-dev)
+  ![Repo stars](https://img.shields.io/github/stars/sarvarjon-dev/sarvarjon-dev?style=social)
+  ![Repo size](https://img.shields.io/github/repo-size/sarvarjon-dev/sarvarjon-dev)
+</p>
