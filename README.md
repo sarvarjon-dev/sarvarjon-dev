@@ -23,11 +23,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvarjon-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvarjon-dev&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=sarvarjon-dev&theme=radical" alt="GitHub Streak" />
 </p>
